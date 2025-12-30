@@ -1,6 +1,7 @@
 # Конвертер
 
 RUS
+
 Простой скрипт для конвертации в консоли.
 
 Может:
@@ -18,8 +19,9 @@ RUS
 1 руб. = 0.5397 грн.
 1 грн. = 1.85 руб.
 
-ENG
 # Converter
+
+ENG
 
 A simple console script for conversions.
 
